@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item.xml",
+        "source": "C:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_star.xml",
+        "source": "C:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\src\\main\\res\\layout\\list_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_star_list.xml",
+        "source": "C:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\src\\main\\res\\layout\\activity_star_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_star_empty.xml",
+        "source": "C:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\src\\main\\res\\layout\\list_star_empty.xml"
+    }
+]
