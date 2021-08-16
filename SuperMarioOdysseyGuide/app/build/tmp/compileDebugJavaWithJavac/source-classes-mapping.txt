@@ -1,0 +1,10 @@
+com/example/supermarioodysseyguide/BuildConfig.java
+ com.example.supermarioodysseyguide.BuildConfig
+com/example/supermarioodysseyguide/databinding/ActivityStarListBinding.java
+ com.example.supermarioodysseyguide.databinding.ActivityStarListBinding
+com/example/supermarioodysseyguide/databinding/ListItemBinding.java
+ com.example.supermarioodysseyguide.databinding.ListItemBinding
+com/example/supermarioodysseyguide/databinding/ActivityMainBinding.java
+ com.example.supermarioodysseyguide.databinding.ActivityMainBinding
+com/example/supermarioodysseyguide/databinding/ListStarBinding.java
+ com.example.supermarioodysseyguide.databinding.ListStarBinding
