@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Super Mario Odyssey Guide</string>
+    <string name="kingdom1">Cap Kingdom</string>
+    <string name="kingdom2">Cascade Kingdom</string>
+    <string name="kingdom3">Sand Kingdom</string>
+    <string name="kingdom4">Lake Kingdom</string>
+    <string name="kingdom5">Wooded Kingdom</string>
+    <string name="kingdom6">Cloud Kingdom</string>
+    <string name="kingdom7">Lost Kingdom</string>
+    <string name="kingdom8">Metro Kingdom</string>
+    <string name="kingdom9">Snow Kingdom</string>
+    <string name="kingdom10">Seaside Kingdom</string>
+    <string name="kingdom11">Luncheon Kingdom</string>
+    <string name="kingdom12">Ruined Kingdom</string>
+    <string name="kingdom13">Bowser\'s Kingdom</string>
+    <string name="kingdom14">Moon Kingdom</string>
+    <string name="kingdom15">Mushroom Kingdom</string>
+    <string name="kingdom16">Dark Side</string>
+    <string name="kingdom17">Darker Side</string>
+    <string name="action_search">search</string>
+    <string name="filter">filter</string>
+</resources>
