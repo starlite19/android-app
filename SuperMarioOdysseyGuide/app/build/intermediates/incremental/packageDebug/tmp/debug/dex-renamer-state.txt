@@ -1,0 +1,4 @@
+#Sat Jul 31 13:32:38 EDT 2021
+base.0=C\:\\Users\\ivyho\\AndroidStudioProjects\\SuperMarioOdysseyGuide\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
